@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Blosture Biosciences
+description: > # this means to ignore newlines until "baseurl:"
+  The Blossom's Nurture.🌺
+repository: https://github.com/blosture
+baseurl: /  # the subpath of your site, e.g. /blog
+url: https://blosture.com/ # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+# Sass settings
+sass:
+  style: compressed
+
+# Theme settings
+theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
+
+# Customizations
+your_name: blosture
+email: blosture@protonmail.com
+
+navigation:
+  - text: Home
+    url: /
+  - text: Verticals
+    url: /verticals
+  - text: Posts
+    url: /posts
+  - text: Team
+    url: /team
+  - text: Investors
+    url: /investors
+  - text: FAQ
+    url:  /faq
+
+projects:
+
+
+social:
+  - service: twitter
+    username: blosture
+    link: https://twitter.com/blosture
+  - service: linkedin
+    username: blosture
+    link: https://www.linkedin.com/company/blosture/about/
+  # - service: github
+  #   username: blosture
+  #   link: https://github.com/blosture
+
+# Plugins
+gems:
+  - jekyll-seo-tag
