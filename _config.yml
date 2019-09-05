@@ -34,8 +34,8 @@ navigation:
     url: /verticals
   - text: Posts
     url: /posts
-  - text: Team
-    url: /team
+  # - text: Team
+  #   url: /team
   - text: Investors
     url: /investors
   - text: FAQ
