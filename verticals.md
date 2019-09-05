@@ -9,7 +9,7 @@ permalink: verticals
 
 <img src="/images/tri.jpg" width="100%"/>
 
-[contact](/team) us.
+Email blosture@protonmail.com
 
 
 ## Neuroscience	
