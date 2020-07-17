@@ -8,7 +8,7 @@
 # Site settings
 title: Blosture Biosciences
 description: > # this means to ignore newlines until "baseurl:"
-  The Blossom's Nurture.🌺
+  🌺
 repository: https://github.com/blosture
 baseurl: /  # the subpath of your site, e.g. /blog
 url: https://blosture.com/ # the base hostname & protocol for your site
@@ -32,14 +32,7 @@ navigation:
     url: /
   - text: Verticals
     url: /verticals
-  - text: Posts
-    url: /posts
-  # - text: Team
-  #   url: /team
-  - text: Investors
-    url: /investors
-  - text: FAQ
-    url:  /faq
+
 
 projects:
 
